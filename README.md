@@ -6,7 +6,7 @@ Run with:
 
 ```
 npm install
-node index.html
+npm start
 ```
 
 Downloaded root cert with command:

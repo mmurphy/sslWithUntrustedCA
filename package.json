@@ -2,7 +2,10 @@
   "name": "sslWithUntrustedCA",
   "version": "1.0.0",
   "description": "Show SSL request to site with untrusted CA",
-  "main": "index.js",
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
